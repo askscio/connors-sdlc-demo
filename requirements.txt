@@ -1,0 +1,8 @@
+# International Usage Detection Service (SE-5034)
+# Dependencies for the 50% threshold detection system
+
+# Testing
+pytest>=7.0.0
+
+# No additional runtime dependencies required
+# Uses only Python standard library (dataclasses, datetime, decimal, enum, typing, etc.)
